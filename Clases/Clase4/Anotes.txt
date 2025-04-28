@@ -1,0 +1,20 @@
+Nodo: Define nodos para la pila dinámica, con métodos para conectar nodos y obtener sus valores.
+Pila (dinámica): Implementa la pila usando nodos. Puede insertar (Push), eliminar (Pop) y mostrar los elementos.
+PilaEst (estática): Utiliza un arreglo de tamaño fijo para almacenar los elementos, con métodos para insertar y extraer valores.
+
+
+Liberación de Memoria Dinámica:
+
+Cuando utilizas new Pila(), estás reservando memoria en el heap para un objeto de tipo Pila. Esta memoria no se libera 
+automáticamente al finalizar el programa o al salir del bloque de código donde se creó la pila.
+
+delete pi también llama al destructor de la clase Pila, que es importante si tu clase gestiona más recursos 
+dinámicos, como punteros dentro de nodos,archivos abiertos, etc. En este caso, el destructor de Pila se 
+encargaría de liberar cualquier nodo que aún quede en la pila, evitando así más fugas de memoria.
+
+
+Ustedes se adapten al codigo, si no se adaptan a esto, codigo de un arbol, Momento del examen, metodo tal de la clase pila ya esta, solo tienen que implementarlo , apliquen la logica
+Asi se reduce el codigo, tal metodo que hace eso , pero no hace eso, Mas logica, asi sera el examen, generalmente vienen los concursos, algo asi, 
+
+lo ideal es que sea con archivos, ya no con el cin , etc, y simplemente lo lees toda esa parte, concurso, es diferente, Asi se van a enfrentar ,seria bueno que salgan de aka,
+9 de la noche, en el meeet para darles esos ejercicios del meet.

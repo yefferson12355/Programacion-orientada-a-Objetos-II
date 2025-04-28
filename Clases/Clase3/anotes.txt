@@ -1,0 +1,10 @@
+**Tiene que ser de arriba para abajo
+max -1 
+tienes que contralarlo , si llegaste al tope, ahi queda
+
+si el indice el menor que maximo, 5 menor que 5, no lo inserta
+
+
+no puedo poner 3 extraer, solo 2 si hay 2 , ahi tambien teenemo que controlaar
+
+si borrar no utilizas el metodo push se borra el el n, es una  varible local
