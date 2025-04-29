@@ -2,7 +2,7 @@
 #define TEST_COLA_H
 #include "nodo.h"
 using namespace std;
-
+#include <iostream>	
 class Cola {
 private:
     Nodo *pri;

@@ -1,3 +1,0 @@
-E:/UNIVERSIDAD/III Semestre/poo II/Whatsapp_Codigo/cmake-build-debug/CMakeFiles/Whatsapp_Codigo.dir
-E:/UNIVERSIDAD/III Semestre/poo II/Whatsapp_Codigo/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/UNIVERSIDAD/III Semestre/poo II/Whatsapp_Codigo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
